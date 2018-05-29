@@ -20,6 +20,7 @@
         }
     },
     "require": {
+        "silex/silex": "^2.2",
         "pimple/pimple": "^3.0",
         "symfony/security": "~2.8|~3.0",
         "firebase/php-jwt": "^5.0"
