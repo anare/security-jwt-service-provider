@@ -3,22 +3,11 @@
 [![Build Status](https://travis-ci.org/cnam/security-jwt-service-provider.svg?branch=master)](https://travis-ci.org/cnam/security-jwt-service-provider)
 [![Latest Stable Version](https://poser.pugx.org/cnam/security-jwt-service-provider/v/stable)](https://packagist.org/packages/cnam/security-jwt-service-provider) [![Total Downloads](https://poser.pugx.org/cnam/security-jwt-service-provider/downloads)](https://packagist.org/packages/cnam/security-jwt-service-provider) [![Latest Unstable Version](https://poser.pugx.org/cnam/security-jwt-service-provider/v/unstable)](https://packagist.org/packages/cnam/security-jwt-service-provider) [![License](https://poser.pugx.org/cnam/security-jwt-service-provider/license)](https://packagist.org/packages/cnam/security-jwt-service-provider)
 
-This provider usage with silex security 
-
-require silex 
-
-> for usage stable version silex your need used security jwt service provider version in 1.*
-
-> for usage silex 2.0 version or not stable master your need usage version 2.*
+This provider is mainly based on [cnam/security-jwt-service-provider](https://github.com/cnam/security-jwt-service-provider), but the dependencies have been updates to Silex 2.2, Pimple 3 and Firebase 5.
 
 ## Installation
 
->  composer require cnam/security-jwt-service-provider:1.*
-
-Or add your composer.json
-
-> require "cnam/security-jwt-service-provider":"1.*"
-
+>  composer require anibalsanchez/security-jwt-service-provider
 
 ## Simple example
 
