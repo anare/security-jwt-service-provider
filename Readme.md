@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/cnam/security-jwt-service-provider.svg?branch=master)](https://travis-ci.org/cnam/security-jwt-service-provider)
 [![Latest Stable Version](https://poser.pugx.org/cnam/security-jwt-service-provider/v/stable)](https://packagist.org/packages/cnam/security-jwt-service-provider) [![Total Downloads](https://poser.pugx.org/cnam/security-jwt-service-provider/downloads)](https://packagist.org/packages/cnam/security-jwt-service-provider) [![Latest Unstable Version](https://poser.pugx.org/cnam/security-jwt-service-provider/v/unstable)](https://packagist.org/packages/cnam/security-jwt-service-provider) [![License](https://poser.pugx.org/cnam/security-jwt-service-provider/license)](https://packagist.org/packages/cnam/security-jwt-service-provider)
 
-This provider is mainly based on [cnam/security-jwt-service-provider](https://github.com/cnam/security-jwt-service-provider), but the dependencies have been updates to Silex 2.2, Pimple 3 and Firebase 5.
+This provider is mainly based on [cnam/security-jwt-service-provider](https://github.com/cnam/security-jwt-service-provider), but the dependencies have been updated to Silex 2.2, Pimple 3 and Firebase 5.
 
 ## Installation
 
