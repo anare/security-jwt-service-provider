@@ -7,7 +7,7 @@ This provider is mainly based on [cnam/security-jwt-service-provider](https://gi
 
 ## Installation
 
->  composer require anibalsanchez/security-jwt-service-provider
+>  composer require anibalsanchez/security-jwt-service-provider_s2p3f5
 
 ## Simple example
 
